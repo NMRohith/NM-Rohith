@@ -12,7 +12,10 @@ A responsive personal portfolio website showcasing my skills, projects, and cont
 [Visit My Portfolio](https://NMRohith.github.io/NM-Rohith/)  <!-- Confirm this link works after GitHub Pages setup -->
 
 ### 📁 Repo
-[GitHub Source](https://github.com/NMRohith/NM-Rohith)
+| Project Name | Description | Tech Stack | Repo Link | Live Demo |
+|--------------|-------------|------------|-----------|-----------|
+| Portfolio.NM | Personal portfolio site showcasing skills, projects, and contact info | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/NMRohith/Portfolio.NM) | [Live Site](https://nmrohith.github.io/Portfolio.NM/) |
+
 
 ### ✨ Highlights
 - Clean layout with smooth navigation
