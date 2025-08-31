@@ -1,6 +1,6 @@
 # 🌐 Web Development Projects
 
-This folder contains my frontend development projects built using HTML, CSS, and JavaScript. These projects reflect my learning journey, creativity, and ability to build responsive, interactive user interfaces. I've grouped them by theme and highlighted the ones that best showcase my skills.
+This folder contains my frontend development projects built using HTML, CSS, JavaScript, and React. These projects reflect my learning journey, creativity, and ability to build responsive, interactive user interfaces. I've grouped them by theme and highlighted the ones that best showcase my skills—including API integration, dynamic routing, and component-based design with React.
 
 ---
 
